@@ -54,9 +54,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 ### EMPLOYEE DATA
-![image](https://github.com/R-Udayakumar/WDM_EXP1/assets/118708024/c136bff5-c5a6-4efe-ab08-cb2df0169ea1)
+![image](employee.png)
 ### WEATHER DATA
-![image](https://github.com/R-Udayakumar/WDM_EXP1/assets/118708024/f8629aef-b0bc-4ffa-be78-6e2e815d25b2)
+![image](weather.png)
 
 
 
